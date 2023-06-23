@@ -1,0 +1,80 @@
+Cuestionario sobre &quot;Código limpio&quot; de Robert Cecil Martin:
+Prólogo:
+1. ¿Qué propósito tiene el prólogo en el libro &quot;Código limpio&quot;?
+
+2. ¿Quién es el autor del prólogo y qué relación tiene con Robert Cecil Martin?
+
+3. ¿Cuál es la importancia de escribir código limpio según el prólogo?
+
+Introducción:
+4. ¿Cuál es el objetivo principal del libro &quot;Código limpio&quot;?
+
+5. Mencionar al menos tres beneficios de tener código limpio en un proyecto de desarrollo
+
+de software.
+6. ¿Por qué es importante el aspecto económico al considerar el mantenimiento de código
+limpio?
+
+Sobre la imagen de cubierta:
+
+7. ¿Qué representa la imagen de cubierta del libro?
+
+8. ¿Cuál es el mensaje que se intenta transmitir a través de la imagen de cubierta?
+
+Capítulo 1: Código limpio:
+
+9. ¿Cuál es la metáfora utilizada para describir el código limpio?
+
+10. Mencionar al menos tres características de un código limpio según el autor.
+
+11. ¿Cuál es la importancia de que el código sea fácil de leer?
+
+Capítulo 2: Nombres con sentido:
+
+12. ¿Por qué los nombres bien elegidos son importantes en la escritura de código?
+
+13. Mencionar tres pautas sugeridas por el autor para nombrar variables, funciones y
+clases.
+
+14. ¿Cuál es el efecto de utilizar nombres genéricos o ambiguos en el código?
+
+respuestas:
+1) El propósito del prólogo del capítulo 1 es que habla sobre la importancia que tiene el
+software en el mundo de la tecnología para la programación.
+
+2) El autor del prólogo es James O. Coplien y la relación que tiene con Robert Cecil Martin
+es que los dos eran programadores.
+
+3) La importancia de escribir un código limpio según el prólogo es que se puede seguir
+mejorando mientras las personas lo puedan seguir usando.
+
+4) El objetivo principal del libro es enseñar a los programadores principiantes cómo mejorar
+sus habilidades para crear un mejor código.
+
+
+5) Los tres beneficios son: Conocimiento, trabajo, y esfuerzo.
+
+6) Es importante porque es eficiente en el desarrollo, menor dependencia en
+desarrolladores específicos, y calidad en el producto.
+
+7) La imagen de la cubierta del libro representa una galaxia.
+
+8) El mensaje es el vacío que tiene la galaxia.
+
+9) La metáfora utilizada es que un código limpio puede ser incorrecto o correcto
+dependiendo de la habilidad de programación del programador.
+
+10) Las características son: El cambio de diseño, la actitud, y el enigma.
+
+11) La importancia de leer un código limpio es para poder evitar errores, facilitar el el
+mantenimiento, el procesamiento de errores completo y el rendimiento
+óptimo para que los usuarios no estropeen el código con optimizaciones sin sentido.
+
+12) Son elegidos porque son usuarios que tienen mayor experiencia y conocimiento de la
+programación.
+
+13) Las tres pautas mencionadas por el autor son: comentario(//), el nombre(d), y la lista de
+celdas llamada the List.
+
+14) Utilizar nombres ambiguos o genéricos puede afectar el programa según como este
+nombrado el código que fue realizado.
